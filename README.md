@@ -1,4 +1,4 @@
-### Hi there 👋, My Name Is Rosie
+### Hi there 👋, My Name Is [ZéroTwó#5019](https://discord.com/users/210428907386699777)
   - 📕 Best place to reach me is on [Discord](https://discordapp.com):  [ZéroTwó#5019](https://discord.com/users/210428907386699777)
   - ✨ Favorite Lang: Python 3
   - 🙀 Biggest fear: [Omni](https://discord.com/users/223111553891827722) | [Omni on Github](https://github.com/omnibus661) 

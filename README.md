@@ -15,3 +15,8 @@
 <a href="https://github.com/oOHiyoriOo?tab=repositories">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oOHiyoriOo&layout=compact&show_icons=true&title_color=ff00ff&icon_color=7c00ff&text_color=9f9f9f&bg_color=252525" />
 </a>
+
+
+<a href="https://discord.com/users/210428907386699777">
+  <img align="left" src="https://lanyard.cnrad.dev/api/210428907386699777" />
+</a>

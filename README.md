@@ -12,14 +12,16 @@
 <br>
 <hr>
 <a href="https://github.com/oOHiyoriOo" style="display:inline;">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=oOHiyoriOo&show_icons=true&include_all_commits=true&show_icons=true&title_color=ff00ff&icon_color=7c00ff&text_color=9f9f9f&bg_color=252525" alt="oOHiyoriOo Stats" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=oOHiyoriOo&show_icons=true&include_all_commits=true&show_icons=true&title_color=ff00ff&icon_color=7c00ff&text_color=9f9f9f&bg_color=252525" alt="oOHiyoriOo Stats" width="515px" height="195px"/>
 </a>
 
 <a href="https://github.com/oOHiyoriOo?tab=repositories">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oOHiyoriOo&layout=compact&show_icons=true&title_color=ff00ff&icon_color=7c00ff&text_color=9f9f9f&bg_color=252525" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oOHiyoriOo&layout=compact&show_icons=true&title_color=ff00ff&icon_color=7c00ff&text_color=9f9f9f&bg_color=252525" width="515px" height="195px" />
 </a>
-<br><br><br><br><br><br><br><br><br><br>
-<br><br><br><br><br>
+
+<br clear="both"/>
+
+
 <hr>
 <a href="https://discord.com/users/210428907386699777">
   <p align="center">

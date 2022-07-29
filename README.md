@@ -4,9 +4,14 @@
   - 🙀 Biggest fear: [Omni](https://discord.com/users/223111553891827722) | [Omni on Github](https://github.com/omnibus661) 
   <br>
 
-<a href="https://github.com/oOHiyoriOo" style="display:inline;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=oOHiyoriOo&show_icons=true&include_all_commits=true&show_icons=true&title_color=ff00ff&icon_color=7c00ff&text_color=9f9f9f&bg_color=252525" alt="oOHiyoriOo Stats" />
+<a href="https://discordapp.com/users/210428907386699777">
+  <img align="center" src="http://raw.githubusercontent.com/oOHiyoriOo/oOHiyoriOo/main/yzt.gif" width="100%" />
 </a>
+
+<a href="https://github.com/oOHiyoriOo" style="display:inline;">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=oOHiyoriOo&show_icons=true&include_all_commits=true&show_icons=true&title_color=ff00ff&icon_color=7c00ff&text_color=9f9f9f&bg_color=252525" alt="oOHiyoriOo Stats" />
+</a>
+
 <a href="https://github.com/oOHiyoriOo?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oOHiyoriOo&layout=compact&show_icons=true&title_color=ff00ff&icon_color=7c00ff&text_color=9f9f9f&bg_color=252525" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oOHiyoriOo&layout=compact&show_icons=true&title_color=ff00ff&icon_color=7c00ff&text_color=9f9f9f&bg_color=252525" />
 </a>
